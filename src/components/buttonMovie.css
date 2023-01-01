@@ -1,0 +1,20 @@
+button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: white;
+}
+
+button:hover {
+    background-color: rgb(202, 202, 202);
+}
+
+.container-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

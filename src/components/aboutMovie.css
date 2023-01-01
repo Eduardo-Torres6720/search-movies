@@ -1,0 +1,20 @@
+.container-movie {
+    display: flex;
+    align-items: center;
+    width: 700px;
+    margin: 20px 0;
+}
+
+.container-movie img {
+    margin: 0 10px;
+    width: 200px;
+}
+
+.container-movie p {
+    font-size: 20px;
+    color: white;
+}
+
+.container-title {
+    margin: 10px 0;
+}
